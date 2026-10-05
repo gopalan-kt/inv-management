@@ -13,7 +13,22 @@ Thumbs.db
 # IDE/Editor
 .vscode/
 .idea/
+CLAUDE.md
+
+# Node
+node_modules/
+dist/
+*.log
+.env
+server/data/
 
 # Archive
 bundle.py
 archive/
+ex-code/
+
+
+# User Custom Files
+error-screenshots/
+post-production.md
+raw-footage.md
